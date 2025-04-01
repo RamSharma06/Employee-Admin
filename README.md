@@ -3,7 +3,6 @@
 ## 📌 Overview
 The **Employee Admin** project is a web-based application built using React that provides a simple yet effective **employee management system**. The project includes an **employee dashboard** and an **admin dashboard**, with user authentication and data persistence handled via **localStorage**.
 
-This project is ideal for beginners looking to strengthen their **React.js skills**, especially in state management, authentication, and handling local storage.
 
 ## 🚀 Features
 - Employee Dashboard
